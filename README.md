@@ -53,4 +53,4 @@ Lexica.art：
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Nicolas Figueira](https://github.com/nicolasteix)
