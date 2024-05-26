@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src="https://github.com/nicolasteix/Desenvolvendo-Soft-Skills-Essenciais/blob/43cdebeace1fdff4415f9fa993d0d2fcecf5a19d/Samsung%20Tablet%20Mockup.jpg"
     width="400"  
   />
 </p>
@@ -13,10 +13,6 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me).
 
-<p align="center">
-  <img src=".github/assets/video-preview.png" width="80%">
-  </a>
-<p>
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
